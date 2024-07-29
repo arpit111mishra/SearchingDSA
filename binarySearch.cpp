@@ -2,6 +2,7 @@
 using namespace std;
 void binary(int a[],int n,int item)
 {
+    
       int m;
       int l=0,u=n-1;
       while(l<=u)
