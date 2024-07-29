@@ -6,6 +6,7 @@ void binary(int a[],int n,int item)
       int l=0,u=n-1;
       while(l<=u)
       {
+
         m=(l+u)/2;
         if(item==a[m])
         {
